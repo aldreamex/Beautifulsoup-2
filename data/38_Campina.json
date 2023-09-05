@@ -1,0 +1,4320 @@
+﻿[
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+][
+    {
+        "title": "Fruttis Kids с Персиком [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,7 г",
+        "fats": "2 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Fruttis XL Кокос Банан [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Fruttis XL со Вкусом Яблочного Зефира [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Взбитый Крем [Campina]",
+        "calories": "232 кКал",
+        "proteins": "2,1 г",
+        "fats": "20 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Взбитый Сливочный Крем [Campina]",
+        "calories": "242 кКал",
+        "proteins": "2,5 г",
+        "fats": "20 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "157 кКал",
+        "proteins": "10,8 г",
+        "fats": "9 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Греческий Йогурт 5% [Campina]",
+        "calories": "87 кКал",
+        "proteins": "6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Густой Йогурт с Апельсином и Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Густой Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Густой Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Fruttis XL с Кокосом, Манго и Кокосовым Желе [Campina]",
+        "calories": "75 кКал",
+        "proteins": "3,2 г",
+        "fats": "2 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Йогурт Натуральный [Campina]",
+        "calories": "70,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный Бархатный Персик [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Йогурт Нежный Крем-Карамель [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Латте Макиато [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Лёгкий с Соком Клубники [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Лесных Ягод [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Йогурт Нежный Легкий с Соком Персика [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Натуральный [Campina]",
+        "calories": "70 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Йогурт Нежный с Кусочками Персика и Маракуйи [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Клубники и Банана [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Абрикоса и Манго 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Банана и Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Вишни 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Граната и Малины [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Клубники 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 0,1% [Campina]",
+        "calories": "75 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Лесных Ягод 1,2% [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный с Соком Персика 0,1% [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт Нежный с Ягодами Черники [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Абрикоса и Манго [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Клубники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Сливочный с Соком Персика [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Нежный Ягодное Мороженое [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Йогурт Питьевой [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт Питьевой Нежный с Соком Клубники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Йогурт с Апельсином и Кусочками Кокосового Желе Ната Де Коко [Campina]",
+        "calories": "111 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "title": "Йогурт с Клубникой [Campina]",
+        "calories": "110 кКал",
+        "proteins": "3 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Йогурт с Кокосом и Бананом [Campina]",
+        "calories": "113 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Йогурт с Манго и Вкусом Пломбира [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт с Соком Клубники [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Йогурт с Соком Лесных Ягод [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Йогурт с Соком Малины и Земляники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Йогурт со Вкусом Пломбира и Манго [Campina]",
+        "calories": "114 кКал",
+        "proteins": "5 г",
+        "fats": "4,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Йогурт Суперэкстра [Campina]",
+        "calories": "146 кКал",
+        "proteins": "2,1 г",
+        "fats": "8 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "title": "Молоко Питьевое Стерилизованное для Кофе 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Напиток Йогуртный \"Нежный\" [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Груша в Карамели [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "2,5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный Йогурт Королевское Манго [Campina]",
+        "calories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "title": "Нежный Пудинг Ванильный [Campina]",
+        "calories": "97 кКал",
+        "proteins": "1,9 г",
+        "fats": "2,4 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный Пудинг Шоколадный [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "title": "Нежный с Пюре Яблока и Абрикоса [Campina]",
+        "calories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Нежный с Соком Абрикоса и Манго [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Арбуза [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Вишни [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Граната и Малины [Campina]",
+        "calories": "64 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Нежный с Соком Клубники [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Нежный с Соком Лесных Ягод [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный с Соком Малины и Земляники [Campina]",
+        "calories": "50 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "title": "Нежный Сливочный с Соком Малины и Земляники [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,4 г",
+        "fats": "5 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Питьевой Йогурт Нежный [Campina]",
+        "calories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "title": "Продукт Йогуртный \"Нежный\" с Соком Клубники [Campina]",
+        "calories": "94 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "title": "Продукт Йогуртный Нежный [Campina]",
+        "calories": "95 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Продукт Йогуртный с Соком Лесных Ягод Нежный [Campina]",
+        "calories": "85 кКал",
+        "proteins": "2,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "title": "Пудинг Молочный Ванильный со Взбитыми Сливками [Campina]",
+        "calories": "94 кКал",
+        "proteins": "3 г",
+        "fats": "1,2 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Молочный Шоколадный со Взбитыми Сливками [Campina]",
+        "calories": "97 кКал",
+        "proteins": "3,1 г",
+        "fats": "1,3 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "title": "Пудинг Нежный Карамельный [Campina]",
+        "calories": "108 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки 8% [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе [Campina]",
+        "calories": "120 кКал",
+        "proteins": "2,8 г",
+        "fats": "10 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Сливки для Кофе 10% [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "title": "Сливки для Кофе Light 5% [Campina]",
+        "calories": "73 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки для Кофе со Вкусом \"Корица\" [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,6 г",
+        "fats": "8 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Сливки Питьевые Стерилизованные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Сливки Порционные [Campina]",
+        "calories": "12 кКал",
+        "proteins": "0,3 г",
+        "fats": "1 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Шоколадный Пудинг [Campina]",
+        "calories": "100 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "17 г"
+    }
+]

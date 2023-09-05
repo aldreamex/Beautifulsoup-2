@@ -1,0 +1,1135 @@
+﻿[
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+][
+    {
+        "title": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "proteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "title": "Икра щучья",
+        "calories": "87,1 кКал",
+        "proteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Капуста маринованная",
+        "calories": "47 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Квашеная капуста",
+        "calories": "27 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "proteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "title": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "title": "Рольмопс",
+        "calories": "149,6 кКал",
+        "proteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "title": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+]
